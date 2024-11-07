@@ -1,4 +1,3 @@
-```markdown
 # Nginx Web Server with Static Content Deployment
 
 This project provisions a Google Cloud Compute Engine instance with an Nginx web server. It automatically downloads and deploys a static website from a public URL using a startup script and assigns a static IP to the instance.
