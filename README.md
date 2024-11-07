@@ -88,20 +88,9 @@ You can modify the following variables in the `terraform.tfvars` file to customi
 - `labels`: Labels for the VM instance.
 - `boot_disk_size`: Size of the boot disk in GB.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgements
 
 - [Tooplate](https://www.tooplate.com/) for providing the free static website template.
 - [Terraform](https://www.terraform.io/) for automating the infrastructure deployment.
 
 ```
-
-### Key Sections of the README:
-1. **Project Overview**: Provides a clear description of the project, including its features and functionality.
-2. **Architecture**: Explains the components and services used in the project.
-3. **Setup Instructions**: Details the steps required to deploy the infrastructure using Terraform.
-4. **Customization**: Describes the customizable parameters within the Terraform files.
-5. **License and Acknowledgements**: Credits and licensing details for the project.
