@@ -92,5 +92,3 @@ You can modify the following variables in the `terraform.tfvars` file to customi
 
 - [Tooplate](https://www.tooplate.com/) for providing the free static website template.
 - [Terraform](https://www.terraform.io/) for automating the infrastructure deployment.
-
-```
